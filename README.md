@@ -1,5 +1,6 @@
 # Global-Economic-Risk-Volatility-Analysis (1961-2023)
 
+## 📊 Live Interactive Dashboard
 * **View Live Dashboard:** [Global Economic Risk & Volatility Analysis (1961–2023)](https://public.tableau.com/shared/S2W8FHBH9?:display_count=n&:origin=viz_share_link)
 
 ## Project Summary
@@ -13,7 +14,7 @@ The core objective was to move beyond simple inflation tracking by integrating a
 
 3) Dynamic Interactivity: Engineered cross-filter actions across all 5 core visuals (map, bar charts, time-series), enabling users to drill down into a single country's complete economic history for rapid risk diagnosis.
 
-## Tools Used- 
+## ⚙️ Tools Used- 
 
 Data Visualization ->	Tableau Desktop, Tableau Public
 
