@@ -14,6 +14,9 @@ The core objective was to move beyond simple inflation tracking by integrating a
 ## Tools Used- 
 
 Data Visualization ->	Tableau Desktop, Tableau Public
+
 Data Modeling / ETL	-> Microsoft Excel (Data Standardization, Cleansing), Tableau (Data Blending/Joins)
+
 Analysis -> Statistical Aggregations (Median, Average), Advanced Calculated Fields
+
 Data Sources ->	CSV
