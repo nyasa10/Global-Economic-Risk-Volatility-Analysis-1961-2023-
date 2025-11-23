@@ -1,6 +1,6 @@
 # Global-Economic-Risk-Volatility-Analysis (1961-2023)
 
-**View Live Dashboard:** [Global Economic Risk & Volatility Analysis (1961–2023)]([https://public.tableau.com/shared/NCHM2SMF8?:display_count=n&:origin=viz_share_link])
+* **View Live Dashboard:** [Global Economic Risk & Volatility Analysis (1961–2023)]([https://public.tableau.com/shared/NCHM2SMF8?:display_count=n&:origin=viz_share_link])
 
 ## Project Summary
 This project delivers a comprehensive, interactive dashboard analyzing global inflationary trends and economic volatility across 62 years of historical data (1961–2023) for over 190 countries.
