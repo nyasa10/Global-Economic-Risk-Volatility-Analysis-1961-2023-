@@ -22,4 +22,4 @@ Data Modeling / ETL	-> Microsoft Excel (Data Standardization, Cleansing), Tablea
 
 Analysis -> Statistical Aggregations (Median, Average), Advanced Calculated Fields
 
-Data Sources ->	CSV
+Data Source ->	CSV
